@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mohan-portfolio/static/css/main.f9ff7ae0.css",
-    "main.js": "/Mohan-portfolio/static/js/main.d3cfdf07.js",
+    "main.css": "/Mohan-portfolio/static/css/main.3dedda63.css",
+    "main.js": "/Mohan-portfolio/static/js/main.bde6b015.js",
     "static/media/abt.png": "/Mohan-portfolio/static/media/abt.51e9a5c4d35890694d5b.png",
-    "static/media/bg2.png": "/Mohan-portfolio/static/media/bg2.e1d1b67541a3ae0771a1.png",
+    "static/media/bg1.png": "/Mohan-portfolio/static/media/bg1.945091ce1f90f1df09e1.png",
     "static/media/project.png": "/Mohan-portfolio/static/media/project.6b80dc22339b227d4ce7.png",
     "static/media/cts.png": "/Mohan-portfolio/static/media/cts.754284e257d61ccf1b2d.png",
     "static/media/az204.png": "/Mohan-portfolio/static/media/az204.61f829c26f1a7015cf0f.png",
     "static/media/az104.png": "/Mohan-portfolio/static/media/az104.84267b6716d879cdad28.png",
     "static/media/ai 102.png": "/Mohan-portfolio/static/media/ai 102.e50e2e94f88fc2d64a13.png",
     "index.html": "/Mohan-portfolio/index.html",
-    "main.f9ff7ae0.css.map": "/Mohan-portfolio/static/css/main.f9ff7ae0.css.map",
-    "main.d3cfdf07.js.map": "/Mohan-portfolio/static/js/main.d3cfdf07.js.map"
+    "main.3dedda63.css.map": "/Mohan-portfolio/static/css/main.3dedda63.css.map",
+    "main.bde6b015.js.map": "/Mohan-portfolio/static/js/main.bde6b015.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9ff7ae0.css",
-    "static/js/main.d3cfdf07.js"
+    "static/css/main.3dedda63.css",
+    "static/js/main.bde6b015.js"
   ]
 }
